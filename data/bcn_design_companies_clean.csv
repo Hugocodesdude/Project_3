@@ -1,0 +1,2 @@
+name,offices,description,address1,address2,zip_code,city,state_code,country_code,latitude,longitude
+MEDDIA,"[{'description': 'Headquarters', 'address1': 'Av. Diagonal 237', 'address2': '', 'zip_code': '08013', 'city': 'Barcelona', 'state_code': None, 'country_code': 'ESP', 'latitude': 41.4018094, 'longitude': 2.1815648}]",Headquarters,Av. Diagonal 237,,08013,Barcelona,,ESP,41.4018094,2.1815648

@@ -1,0 +1,3 @@
+name,offices,description,address1,address2,zip_code,city,state_code,country_code,latitude,longitude
+Escapio,"[{'description': 'Escapio Berlin', 'address1': 'Am Treptower Park 28', 'address2': '', 'zip_code': '12435', 'city': 'Berlin', 'state_code': None, 'country_code': 'DEU', 'latitude': 52.4943074, 'longitude': 13.434474}]",Escapio Berlin,Am Treptower Park 28,,12435,Berlin,,DEU,52.4943074,13.434474
+Webteilchen,"[{'description': 'Webteilchen Berlin', 'address1': 'Greifswalder Str. 4', 'address2': '', 'zip_code': '10779', 'city': 'Berlin', 'state_code': None, 'country_code': 'DEU', 'latitude': 52.5296736, 'longitude': 13.6281888}]",Webteilchen Berlin,Greifswalder Str. 4,,10779,Berlin,,DEU,52.5296736,13.6281888

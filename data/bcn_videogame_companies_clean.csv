@@ -1,0 +1,3 @@
+name,offices,description,address1,address2,zip_code,city,state_code,country_code,latitude,longitude
+Wuapi,"[{'description': None, 'address1': '', 'address2': '', 'zip_code': '', 'city': 'Barcelona', 'state_code': None, 'country_code': 'ESP', 'latitude': 41.387917, 'longitude': 2.169919}]",,,,,Barcelona,,ESP,41.387917,2.169919
+Tengaged,"[{'description': 'Main', 'address1': 'C/Pedrell', 'address2': '', 'zip_code': '08032', 'city': 'Barcelona', 'state_code': None, 'country_code': 'ESP', 'latitude': 41.4241228, 'longitude': 2.1634249}]",Main,C/Pedrell,,08032,Barcelona,,ESP,41.4241228,2.1634249

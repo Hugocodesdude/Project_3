@@ -1,25 +1,66 @@
-# Project_3
+# GeoSpatial Data Project
 
+#Title: Start-Up off
 
-Project Approach
-Select an office location for a new start up based on the following criteria:
-Designers like to go to design talks and share knowledge.
-There must be some nearby companies that also do design.
-30% of the company staff have at least 1 child.
-Developers like to be near successful tech startups that have raised at least 1 Million dollars.
-Executives like Starbucks A LOT. Ensure there's a starbucks not too far.
-Account managers need to travel a lot.
-Everyone in the company is between 25 and 40, give them some place to go party.
-The CEO is vegan.
-If you want to make the maintenance guy happy, a basketball stadium must be around 10 Km.
-The office dog—"Dobby" needs a hairdresser every month. Ensure there's one not too far away.
-How to approach it
-Query the database
-Use an API to get venues (and for this, you'll need a starting point; some coordinates from which you will call the API)
-Justify your decision using data, not just visualization. How? Maybe measuring distances, maybe assinging weights depending on the importance of your criteria, maybe calculating the density of schools/Starbucks, etc.
-Option selected
-Choose three cities that exist in your database. From these cities, query and filter the database according to any other criteria if necessary. Then, make API calls to see if the rest of your criteria are met. Then, compare the three cities. Are any of them better than the other two? Using data, justify why.
+A comparative review into 3 candidate cities for a new start-up in the gaming industry. 
 
-Once you chose the city, what would be an approximate location?
+------- 
 
-Your result will be a city and a neighbourhood/zip code or adress/coordinates.
+## Table of Contents
+1. Project Focus
+2. Hypothesis 
+3. Tools & Method
+4. Code breakdown 
+5. Visualisation 
+6. Improvments
+
+## 1. Project Focus
+To investigate three selected European candidate cities (London, Berlin & Barcelona) on which is best suited based off of achieving the largest volume of criteria.
+
+--------
+
+2. Hypothesis 
+
+Going into this project my feeling was that Barcelona would be the best location for the start up. Given it's lower cost of living and attractive start up climate. However let'a see what the data reveals. 
+
+--------
+
+3. Tools & Method
+
+For this project I used a combination of data base queries using MongosDB and API calls with FourSquare. 
+
+I used the following tools to run the code: 
+
+```python
+from pymongo import MongoClient
+import pandas as pd
+import time 
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import requests
+import re
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+from matplotlib import rcParams
+import folium
+from folium import Choropleth, Circle, Marker, Icon, Map
+from folium.plugins import HeatMap, MarkerCluster
+import pandas as pd
+import os
+import requests
+import json
+from dotenv import load_dotenv
+```
+
+------
+
+6. Next Steps
+
+Further elements to add to the project would be:
+- ranking system function  
+- quality of life 
+- corporate tax rate
+- mean salaries
+- access to green spaces 

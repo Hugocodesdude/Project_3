@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Brookhill Children's Centre,51.484853,0.066747,"{'typepoint': {'type': 'Point', 'coordinates': [51.484853, 0.066747]}}",London,child care
+Alderwood Childrens Centre,51.449384,0.085953,"{'typepoint': {'type': 'Point', 'coordinates': [51.449384, 0.085953]}}",London,child care
+Newham London Tuition Centre,51.537237,0.027185,"{'typepoint': {'type': 'Point', 'coordinates': [51.537237, 0.027185]}}",London,child care
+Premier Lodge Day Nursery,51.427289,0.10088,"{'typepoint': {'type': 'Point', 'coordinates': [51.427289, 0.10088]}}",London,child care
+Waterways Community Childrens Centre,51.501587,0.113661,"{'typepoint': {'type': 'Point', 'coordinates': [51.501587, 0.113661]}}",London,child care
+Bright Horizons East India Dock Day Nursery,51.509069,-0.001825,"{'typepoint': {'type': 'Point', 'coordinates': [51.509069, -0.001825]}}",London,child care
+Bright Horizons New Eltham Day Nursery and Preschool,51.43647,0.062079,"{'typepoint': {'type': 'Point', 'coordinates': [51.43647, 0.062079]}}",London,child care
+Baby Sensory,51.553082,0.231919,"{'typepoint': {'type': 'Point', 'coordinates': [51.553082, 0.231919]}}",London,child care
+Bright Horizons Blackheath Day Nursery and Preschool,51.458278,0.010933,"{'typepoint': {'type': 'Point', 'coordinates': [51.458278, 0.010933]}}",London,child care
+Zoom Nurseries,51.459091,0.009783,"{'typepoint': {'type': 'Point', 'coordinates': [51.459091, 0.009783]}}",London,child care

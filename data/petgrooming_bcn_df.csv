@@ -1,11 +1,6 @@
 name,lat,lon,type,city,category
-Palau Sant Jordi,41.363271,2.152611,"{'typepoint': {'type': 'Point', 'coordinates': [41.363271, 2.152611]}}",Barcelona,pet grooming
-Palau Blaugrana,41.380163,2.120141,"{'typepoint': {'type': 'Point', 'coordinates': [41.380163, 2.120141]}}",Barcelona,pet grooming
-Pavelló Olímpic de Badalona,41.442346,2.232148,"{'typepoint': {'type': 'Point', 'coordinates': [41.442346, 2.232148]}}",Barcelona,pet grooming
-Pavelló Municipal de Cabrils,41.521748,2.369039,"{'typepoint': {'type': 'Point', 'coordinates': [41.521748, 2.369039]}}",Barcelona,pet grooming
-Club Basquet Granollers,41.616691,2.293679,"{'typepoint': {'type': 'Point', 'coordinates': [41.616691, 2.293679]}}",Barcelona,pet grooming
-Parque de la Infanta,41.360562,2.063817,"{'typepoint': {'type': 'Point', 'coordinates': [41.360562, 2.063817]}}",Barcelona,pet grooming
-Esportiu Claret,41.406447,2.166812,"{'typepoint': {'type': 'Point', 'coordinates': [41.406447, 2.166812]}}",Barcelona,pet grooming
-Poliesportiu Ripollet,41.500396,2.149372,"{'typepoint': {'type': 'Point', 'coordinates': [41.500396, 2.149372]}}",Barcelona,pet grooming
-Poliesportiu la Llana,41.501004,2.029792,"{'typepoint': {'type': 'Point', 'coordinates': [41.501004, 2.029792]}}",Barcelona,pet grooming
-Palau d'Esports de Granollers,41.598324,2.287622,"{'typepoint': {'type': 'Point', 'coordinates': [41.598324, 2.287622]}}",Barcelona,pet grooming
+Kiwoko. Mundo Animal,41.386723,2.161102,"{'typepoint': {'type': 'Point', 'coordinates': [41.386723, 2.161102]}}",Barcelona,pet grooming
+Centro Profesional Animal,41.386733,2.161261,"{'typepoint': {'type': 'Point', 'coordinates': [41.386733, 2.161261]}}",Barcelona,pet grooming
+Fundacion Altarriba Amigos de los Animales,41.389956,2.170577,"{'typepoint': {'type': 'Point', 'coordinates': [41.389956, 2.170577]}}",Barcelona,pet grooming
+Ceva Salud Animal,41.395276,2.155801,"{'typepoint': {'type': 'Point', 'coordinates': [41.395276, 2.155801]}}",Barcelona,pet grooming
+Animalear.com,41.398508,2.163766,"{'typepoint': {'type': 'Point', 'coordinates': [41.398508, 2.163766]}}",Barcelona,pet grooming

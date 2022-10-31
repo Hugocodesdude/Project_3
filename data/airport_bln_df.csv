@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Flugplatz Werneuchen GmbH,52.629537,13.735207,"{'typepoint': {'type': 'Point', 'coordinates': [52.629537, 13.735207]}}",Berlin,airports
+Flugplatz Saarmund,52.308314,13.114647,"{'typepoint': {'type': 'Point', 'coordinates': [52.308314, 13.114647]}}",Berlin,airports
+Sleepless Records,52.51609,13.376894,"{'typepoint': {'type': 'Point', 'coordinates': [52.51609, 13.376894]}}",Berlin,airports
+Matthew Rosen N102,52.499586,13.362878,"{'typepoint': {'type': 'Point', 'coordinates': [52.499586, 13.362878]}}",Berlin,airports
+AirSight GmbH,52.542522,13.383938,"{'typepoint': {'type': 'Point', 'coordinates': [52.542522, 13.383938]}}",Berlin,airports
+Airport Berlin Brandenburg International,52.502662,13.34332,"{'typepoint': {'type': 'Point', 'coordinates': [52.502662, 13.34332]}}",Berlin,airports
+beauty24 - Wellness Urlaub HQ,52.491235,13.385118,"{'typepoint': {'type': 'Point', 'coordinates': [52.491235, 13.385118]}}",Berlin,airports
+Germandrones GmbH Luftfahrtunternehmen,52.52421,13.328689,"{'typepoint': {'type': 'Point', 'coordinates': [52.52421, 13.328689]}}",Berlin,airports
+Tempelhof Projekt GmbH,52.483854,13.391172,"{'typepoint': {'type': 'Point', 'coordinates': [52.483854, 13.391172]}}",Berlin,airports
+ATF-AIR-TAXI Fluggesellschaft,52.47605,13.370536,"{'typepoint': {'type': 'Point', 'coordinates': [52.47605, 13.370536]}}",Berlin,airports

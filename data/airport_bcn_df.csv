@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Barcelona–El Prat Josep Tarradellas Airport (BCN) (Aeropuerto Josep Tarradellas Barcelona-El Prat),41.289084,2.073963,"{'typepoint': {'type': 'Point', 'coordinates': [41.289084, 2.073963]}}",Barcelona,airports
+Sabadell Airport (Aeroport de Sabadell),41.521142,2.103024,"{'typepoint': {'type': 'Point', 'coordinates': [41.521142, 2.103024]}}",Barcelona,airports
+"Estacion del Capitolio, Panem",41.296123,2.075351,"{'typepoint': {'type': 'Point', 'coordinates': [41.296123, 2.075351]}}",Barcelona,airports
+Newco Base Rampa,41.291094,2.078811,"{'typepoint': {'type': 'Point', 'coordinates': [41.291094, 2.078811]}}",Barcelona,airports
+Pk 217 T1 Aeropuerto de Barcelona,41.291755,2.075308,"{'typepoint': {'type': 'Point', 'coordinates': [41.291755, 2.075308]}}",Barcelona,airports
+KLM lounge,41.29026,2.075008,"{'typepoint': {'type': 'Point', 'coordinates': [41.29026, 2.075008]}}",Barcelona,airports
+"Oficina transitos Vueling, zona a",41.290654,2.074304,"{'typepoint': {'type': 'Point', 'coordinates': [41.290654, 2.074304]}}",Barcelona,airports
+Sala Tripulaciones VLG,41.291167,2.072467,"{'typepoint': {'type': 'Point', 'coordinates': [41.291167, 2.072467]}}",Barcelona,airports
+Sala de control sate,41.288312,2.076681,"{'typepoint': {'type': 'Point', 'coordinates': [41.288312, 2.076681]}}",Barcelona,airports
+Planta -1 de la T1,41.288614,2.074044,"{'typepoint': {'type': 'Point', 'coordinates': [41.288614, 2.074044]}}",Barcelona,airports

@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Tramp,51.508255,-0.13782,"{'typepoint': {'type': 'Point', 'coordinates': [51.508255, -0.13782]}}",London,music venues
+Cirque le Soir,51.51291,-0.13893,"{'typepoint': {'type': 'Point', 'coordinates': [51.51291, -0.13893]}}",London,music venues
+Maddox Club,51.512702,-0.142262,"{'typepoint': {'type': 'Point', 'coordinates': [51.512702, -0.142262]}}",London,music venues
+Ministry of Sound,51.497637,-0.099503,"{'typepoint': {'type': 'Point', 'coordinates': [51.497637, -0.099503]}}",London,music venues
+Phonox,51.464317,-0.114536,"{'typepoint': {'type': 'Point', 'coordinates': [51.464317, -0.114536]}}",London,music venues
+Electrowerkz,51.532262,-0.105177,"{'typepoint': {'type': 'Point', 'coordinates': [51.532262, -0.105177]}}",London,music venues
+Fabric,51.51962,-0.10252,"{'typepoint': {'type': 'Point', 'coordinates': [51.51962, -0.10252]}}",London,music venues
+The Social,51.517359,-0.140988,"{'typepoint': {'type': 'Point', 'coordinates': [51.517359, -0.140988]}}",London,music venues
+Fold,51.519379,0.003826,"{'typepoint': {'type': 'Point', 'coordinates': [51.519379, 0.003826]}}",London,music venues
+Tape London,51.514326,-0.144572,"{'typepoint': {'type': 'Point', 'coordinates': [51.514326, -0.144572]}}",London,music venues

@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Berghain,52.511684,13.443349,"{'typepoint': {'type': 'Point', 'coordinates': [52.511684, 13.443349]}}",Berlin,music venues
+Kater Blau,52.511956,13.42545,"{'typepoint': {'type': 'Point', 'coordinates': [52.511956, 13.42545]}}",Berlin,music venues
+Teledisko,52.507578,13.454489,"{'typepoint': {'type': 'Point', 'coordinates': [52.507578, 13.454489]}}",Berlin,music venues
+Mensch Meier,52.535213,13.452298,"{'typepoint': {'type': 'Point', 'coordinates': [52.535213, 13.452298]}}",Berlin,music venues
+Sisyphos,52.493365,13.490793,"{'typepoint': {'type': 'Point', 'coordinates': [52.493365, 13.490793]}}",Berlin,music venues
+Salon - Zur Wilden Renate,52.497405,13.465153,"{'typepoint': {'type': 'Point', 'coordinates': [52.497405, 13.465153]}}",Berlin,music venues
+KitKatClub,52.511176,13.416753,"{'typepoint': {'type': 'Point', 'coordinates': [52.511176, 13.416753]}}",Berlin,music venues
+Golden Gate,52.516155,13.416737,"{'typepoint': {'type': 'Point', 'coordinates': [52.516155, 13.416737]}}",Berlin,music venues
+About Blank,52.502354,13.466283,"{'typepoint': {'type': 'Point', 'coordinates': [52.502354, 13.466283]}}",Berlin,music venues
+Ohm,52.510541,13.420376,"{'typepoint': {'type': 'Point', 'coordinates': [52.510541, 13.420376]}}",Berlin,music venues

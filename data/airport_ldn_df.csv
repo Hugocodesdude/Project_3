@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+London Heathrow Airport (LHR),51.470012,-0.454478,"{'typepoint': {'type': 'Point', 'coordinates': [51.470012, -0.454478]}}",London,airports
+London City Airport (LCY),51.503297,0.050112,"{'typepoint': {'type': 'Point', 'coordinates': [51.503297, 0.050112]}}",London,airports
+Elstree Aerodrome,51.654044,-0.323953,"{'typepoint': {'type': 'Point', 'coordinates': [51.654044, -0.323953]}}",London,airports
+Kenley Aerodrome,51.302516,-0.099422,"{'typepoint': {'type': 'Point', 'coordinates': [51.302516, -0.099422]}}",London,airports
+Biggin Hill Airport (BQH),51.331889,0.028996,"{'typepoint': {'type': 'Point', 'coordinates': [51.331889, 0.028996]}}",London,airports
+Sala VIP Heathrow,51.42655,-0.131691,"{'typepoint': {'type': 'Point', 'coordinates': [51.42655, -0.131691]}}",London,airports
+Damyns Hall Aerodrome,51.53119,0.246276,"{'typepoint': {'type': 'Point', 'coordinates': [51.53119, 0.246276]}}",London,airports
+Cargo Worldwide,51.523898,0.09529,"{'typepoint': {'type': 'Point', 'coordinates': [51.523898, 0.09529]}}",London,airports
+Stapleford Flight Centre,51.656588,0.155572,"{'typepoint': {'type': 'Point', 'coordinates': [51.656588, 0.155572]}}",London,airports
+Denham Aerodrome,51.591065,-0.512883,"{'typepoint': {'type': 'Point', 'coordinates': [51.591065, -0.512883]}}",London,airports

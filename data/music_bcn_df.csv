@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Antilla BCN Latin Club,41.384641,2.154478,"{'typepoint': {'type': 'Point', 'coordinates': [41.384641, 2.154478]}}",Barcelona,music venues
+Razzmatazz,41.397599,2.191102,"{'typepoint': {'type': 'Point', 'coordinates': [41.397599, 2.191102]}}",Barcelona,music venues
+Input,41.368636,2.14877,"{'typepoint': {'type': 'Point', 'coordinates': [41.368636, 2.14877]}}",Barcelona,music venues
+Cdlc,41.384976,2.1963,"{'typepoint': {'type': 'Point', 'coordinates': [41.384976, 2.1963]}}",Barcelona,music venues
+La Terrrazza,41.368845,2.149262,"{'typepoint': {'type': 'Point', 'coordinates': [41.368845, 2.149262]}}",Barcelona,music venues
+Garage 442,41.397175,2.16068,"{'typepoint': {'type': 'Point', 'coordinates': [41.397175, 2.16068]}}",Barcelona,music venues
+Opium,41.385104,2.196826,"{'typepoint': {'type': 'Point', 'coordinates': [41.385104, 2.196826]}}",Barcelona,music venues
+Undead Dark Club,41.379763,2.133411,"{'typepoint': {'type': 'Point', 'coordinates': [41.379763, 2.133411]}}",Barcelona,music venues
+Moog,41.378149,2.174909,"{'typepoint': {'type': 'Point', 'coordinates': [41.378149, 2.174909]}}",Barcelona,music venues
+Carpe Diem,41.389427,2.163662,"{'typepoint': {'type': 'Point', 'coordinates': [41.389427, 2.163662]}}",Barcelona,music venues

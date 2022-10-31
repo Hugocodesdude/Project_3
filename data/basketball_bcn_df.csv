@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Palau Sant Jordi,41.363271,2.152611,"{'typepoint': {'type': 'Point', 'coordinates': [41.363271, 2.152611]}}",Barcelona,basketball
+Pavelló Olímpic de Badalona,41.442346,2.232148,"{'typepoint': {'type': 'Point', 'coordinates': [41.442346, 2.232148]}}",Barcelona,basketball
+Pavelló Municipal de Cabrils,41.521748,2.369039,"{'typepoint': {'type': 'Point', 'coordinates': [41.521748, 2.369039]}}",Barcelona,basketball
+Club Basquet Granollers,41.616691,2.293679,"{'typepoint': {'type': 'Point', 'coordinates': [41.616691, 2.293679]}}",Barcelona,basketball
+Parque de la Infanta,41.360562,2.063817,"{'typepoint': {'type': 'Point', 'coordinates': [41.360562, 2.063817]}}",Barcelona,basketball
+Esportiu Claret,41.406447,2.166812,"{'typepoint': {'type': 'Point', 'coordinates': [41.406447, 2.166812]}}",Barcelona,basketball
+Poliesportiu Ripollet,41.500396,2.149372,"{'typepoint': {'type': 'Point', 'coordinates': [41.500396, 2.149372]}}",Barcelona,basketball
+Poliesportiu la Llana,41.501004,2.029792,"{'typepoint': {'type': 'Point', 'coordinates': [41.501004, 2.029792]}}",Barcelona,basketball
+Poliesportiu municipal,41.43131,2.215605,"{'typepoint': {'type': 'Point', 'coordinates': [41.43131, 2.215605]}}",Barcelona,basketball
+Complex Esportiu Municipal Sant Quirze del Valles,41.537535,2.07541,"{'typepoint': {'type': 'Point', 'coordinates': [41.537535, 2.07541]}}",Barcelona,basketball

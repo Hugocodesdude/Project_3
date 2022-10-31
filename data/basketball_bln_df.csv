@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Mercedes-Benz Arena,52.506369,13.443647,"{'typepoint': {'type': 'Point', 'coordinates': [52.506369, 13.443647]}}",Berlin,basketball
+Basketballplatz Böcklerpark,52.496867,13.407324,"{'typepoint': {'type': 'Point', 'coordinates': [52.496867, 13.407324]}}",Berlin,basketball
+Basketballplatz Mauerpark,52.541184,13.40322,"{'typepoint': {'type': 'Point', 'coordinates': [52.541184, 13.40322]}}",Berlin,basketball
+Berlin - Basketball im Mauerpark,52.540628,13.405647,"{'typepoint': {'type': 'Point', 'coordinates': [52.540628, 13.405647]}}",Berlin,basketball
+Basketballplatz Rütli-Schule,52.486831,13.434298,"{'typepoint': {'type': 'Point', 'coordinates': [52.486831, 13.434298]}}",Berlin,basketball
+Mellowpark,52.455546,13.563746,"{'typepoint': {'type': 'Point', 'coordinates': [52.455546, 13.563746]}}",Berlin,basketball
+Mauerpark,52.543815,13.402656,"{'typepoint': {'type': 'Point', 'coordinates': [52.543815, 13.402656]}}",Berlin,basketball
+Volkspark Wilmersdorf,52.48338,13.327615,"{'typepoint': {'type': 'Point', 'coordinates': [52.48338, 13.327615]}}",Berlin,basketball
+Ritter Sport Bunte Schokowelt,52.5147,13.390369,"{'typepoint': {'type': 'Point', 'coordinates': [52.5147, 13.390369]}}",Berlin,basketball
+Schwalbe,52.545535,13.416885,"{'typepoint': {'type': 'Point', 'coordinates': [52.545535, 13.416885]}}",Berlin,basketball

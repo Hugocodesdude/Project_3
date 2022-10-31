@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Starbucks,52.516714,13.379696,"{'typepoint': {'type': 'Point', 'coordinates': [52.516714, 13.379696]}}",Berlin,coffee
+Starbucks,52.519478,13.388708,"{'typepoint': {'type': 'Point', 'coordinates': [52.519478, 13.388708]}}",Berlin,coffee
+Starbucks,52.511063,13.390129,"{'typepoint': {'type': 'Point', 'coordinates': [52.511063, 13.390129]}}",Berlin,coffee
+Starbucks,52.523325,13.402302,"{'typepoint': {'type': 'Point', 'coordinates': [52.523325, 13.402302]}}",Berlin,coffee
+Starbucks,52.524629,13.370125,"{'typepoint': {'type': 'Point', 'coordinates': [52.524629, 13.370125]}}",Berlin,coffee
+Starbucks,52.523795,13.414676,"{'typepoint': {'type': 'Point', 'coordinates': [52.523795, 13.414676]}}",Berlin,coffee
+Starbucks,52.503837,13.332973,"{'typepoint': {'type': 'Point', 'coordinates': [52.503837, 13.332973]}}",Berlin,coffee
+Starbucks,52.519854,13.414693,"{'typepoint': {'type': 'Point', 'coordinates': [52.519854, 13.414693]}}",Berlin,coffee
+Starbucks,52.521509,13.411302,"{'typepoint': {'type': 'Point', 'coordinates': [52.521509, 13.411302]}}",Berlin,coffee
+Starbucks,52.505811,13.331525,"{'typepoint': {'type': 'Point', 'coordinates': [52.505811, 13.331525]}}",Berlin,coffee

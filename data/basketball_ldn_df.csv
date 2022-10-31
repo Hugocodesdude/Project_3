@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Geraldine Mary Harmsworth Sports Facility,51.496187,-0.106748,"{'typepoint': {'type': 'Point', 'coordinates': [51.496187, -0.106748]}}",London,basketball
+Aske Gardens,51.528096,-0.083989,"{'typepoint': {'type': 'Point', 'coordinates': [51.528096, -0.083989]}}",London,basketball
+Q Motion Health & Fitness Centre,51.523206,-0.043008,"{'typepoint': {'type': 'Point', 'coordinates': [51.523206, -0.043008]}}",London,basketball
+Chinbrook Meadows,51.428723,0.028298,"{'typepoint': {'type': 'Point', 'coordinates': [51.428723, 0.028298]}}",London,basketball
+Kennington Park,51.482819,-0.107596,"{'typepoint': {'type': 'Point', 'coordinates': [51.482819, -0.107596]}}",London,basketball
+Leyton Jubilee Park,51.564646,-0.025511,"{'typepoint': {'type': 'Point', 'coordinates': [51.564646, -0.025511]}}",London,basketball
+Victoria Park,51.605484,-0.184854,"{'typepoint': {'type': 'Point', 'coordinates': [51.605484, -0.184854]}}",London,basketball
+Crystal Palace National Sports Centre,51.418907,-0.067866,"{'typepoint': {'type': 'Point', 'coordinates': [51.418907, -0.067866]}}",London,basketball
+Enfield Town Park,51.651648,-0.086295,"{'typepoint': {'type': 'Point', 'coordinates': [51.651648, -0.086295]}}",London,basketball
+The Prince of Greenwich,51.476263,-0.009841,"{'typepoint': {'type': 'Point', 'coordinates': [51.476263, -0.009841]}}",London,basketball

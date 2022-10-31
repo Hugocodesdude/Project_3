@@ -1,0 +1,11 @@
+name,lat,lon,type,city,category
+Starbucks,41.390814,2.165062,"{'typepoint': {'type': 'Point', 'coordinates': [41.390814, 2.165062]}}",Barcelona,coffee
+Starbucks,41.385779,2.167932,"{'typepoint': {'type': 'Point', 'coordinates': [41.385779, 2.167932]}}",Barcelona,coffee
+Starbucks,41.385204,2.163273,"{'typepoint': {'type': 'Point', 'coordinates': [41.385204, 2.163273]}}",Barcelona,coffee
+Starbucks,41.387848,2.169634,"{'typepoint': {'type': 'Point', 'coordinates': [41.387848, 2.169634]}}",Barcelona,coffee
+Starbucks,41.381816,2.17225,"{'typepoint': {'type': 'Point', 'coordinates': [41.381816, 2.17225]}}",Barcelona,coffee
+Starbucks,41.37651,2.150584,"{'typepoint': {'type': 'Point', 'coordinates': [41.37651, 2.150584]}}",Barcelona,coffee
+Starbucks,41.385244,2.177226,"{'typepoint': {'type': 'Point', 'coordinates': [41.385244, 2.177226]}}",Barcelona,coffee
+Starbucks,41.374891,2.182597,"{'typepoint': {'type': 'Point', 'coordinates': [41.374891, 2.182597]}}",Barcelona,coffee
+Starbucks,41.395158,2.158227,"{'typepoint': {'type': 'Point', 'coordinates': [41.395158, 2.158227]}}",Barcelona,coffee
+Starbucks,41.392904,2.165519,"{'typepoint': {'type': 'Point', 'coordinates': [41.392904, 2.165519]}}",Barcelona,coffee

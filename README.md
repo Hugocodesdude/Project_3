@@ -12,7 +12,8 @@ A comparative review into 3 candidate cities for a new start-up in the gaming in
 3. Tools & Method
 4. Code breakdown 
 5. Visualisation 
-6. Improvments
+6. Conclusion
+7. Improvments
 
 ## 1. Project Focus
 To investigate three selected European candidate cities (London, Berlin & Barcelona) on which is best suited based off of achieving the largest volume of criteria.
@@ -53,10 +54,37 @@ import requests
 import json
 from dotenv import load_dotenv
 ```
+------
+
+4. Code Breakdown
+
+For this project the steps were; 1.to query using MongosDB. 2. Turn the queries into dataframes. 3. Plot the data point on maps. 4. Visualise the data in a communicative manner. 5. Caluculate the distances from the data points to the chosen office location. 6. Calcute the relative mean. 
+
+The workflow is spread between four juypter note books. 1. Approach. 2. database investigations with mongos. 3. Visualisations. 4. Distances. 5. Functions. 
+
 
 ------
 
-6. Next Steps
+5. Visualisation 
+
+I created 3 interactive maps using Folium which can be found via the images folder. Please open all of these files to be able to view. 
+
+They visualise the aray of criteria points; high value companies, design companies, video game companies, vegan restaurants, basketball courts, starbucks, nightclubs, child care and airports. 
+
+The maps display three radius rings showing a 1km, 3km & 5km ring. This allows us to visualise from the hypothetical office location, what data criteria points are within the catchment boundary. 
+
+------ 
+
+6. Conclusions
+
+Based upon the map visualisations and calculating the mean of criteria distances to to the office locations. 31 Great Pulteney St (51.5121948,-0.1360746) London would be the most suitable location for the gaming start up due to it's relative proximity to high value companies, game companies, design companies and starbucks coffee shops. 
+
+Berlin and Barcelona were not far off, however London had a higher consentration of criteria marks. 
+
+
+------
+
+7. Next Steps
 
 Further elements to add to the project would be:
 - ranking system function  

@@ -35,3 +35,22 @@ def videogame_company_finder(x):
 
 # -----------------
 
+def calc_distance_LDN_mean(x, site):
+    #site_coords = (51.5121948,-0.1360746)
+    place2_coords = (x.lat, x.lon)
+    return (distance.geodesic(site, place2_coords).km)*1000
+
+ldn_api_df["Distance"] = ldn_api_df.apply(lambda x: calc_distance_LDN_mean(x, (51.5121948,-0.1360746)), axis = 1).round(2)
+ldn_api_df["Distance"].mean()
+
+#-----------------
+
+def calc_distance_BCN(x):
+    site_coords = (41.3943113,2.190921)
+    place2_coords = (x.lat, x.lon)
+    return (distance.geodesic(site_coords, place2_coords).km)*1000
+
+bcn_api_df["Distance"] = bcn_api_df.apply(calc_distance_BCN, axis = 1).round(2)
+
+
+
